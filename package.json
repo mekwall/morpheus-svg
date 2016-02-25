@@ -1,7 +1,7 @@
 {
   "name": "morpheus-svg",
   "main": "svg-morpheus.js",
-  "version": "0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "jspm": {
     "main": "svg-morpheus.js",
